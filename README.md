@@ -57,4 +57,3 @@ Your `log.txt` file will contain:
 Hello World!
 
 
-Would you like me to make it look more **GitHub-styled** (with badges, code formatting, and visuals like a terminal screenshot section)?
